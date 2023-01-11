@@ -2,7 +2,3 @@
 
 Keskeneräinen projekti
 
-Alla kuva asiakkaan gui:n hahmotelmasta.
-
-![Gui](XMPP_MUC/gui.png)
-
